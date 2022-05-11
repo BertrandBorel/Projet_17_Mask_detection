@@ -23,7 +23,7 @@ L'application rencontre des difficultés à reconnaître les masques lorsqu'il y
 Il serait intéressant d'entraîner un nouveau modèle car celui-ci présente des lacunes. 
 
 
-## Capture d'écran :
+## Captures d'écran :
 
 <img width="294" alt="Capturex" src="https://user-images.githubusercontent.com/95342688/167912060-685cf1e3-b9fc-49de-b5e4-9d454b636e82.PNG"> 
 L'utilisateur peut charger une image de son choix et lancer la détection à partir de celle-ci en appuyant sur un bouton. 
