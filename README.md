@@ -15,4 +15,8 @@ L'application qui a été développée devait répondre aux caractéristiques su
 
 ## Utilisation :
 L'application permet de détecter sur une photo si une ou plusieurs personnes portent un masque ou non.
-Après avoir lancé la détection, l'utilisteur peut récupérer les données dans un csv. 
+Après avoir lancé la détection, l'utilisateur peut récupérer les données dans un csv. 
+
+## Conclusion du projet :
+L'application rencontre des difficultés à reconnaître les masques lorsqu'il y a un trop grand nombre de personnes sur la photo.
+Il serait intéressant d'entraîner un nouveau modèle car celui-ci présente des lacunes. 
